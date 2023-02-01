@@ -1,4 +1,4 @@
-const numbers = [99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0];
+const numbers = [1, 2 , 5 ,3 ,4];
 console.log(`original: ${numbers}`)
 
 function bubleSort(arr: number[]) { // O(n^2)
